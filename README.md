@@ -6,12 +6,6 @@
 
 - ⚡ Fun fact **Lazy**
 
-<p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6urOp-rirTrQVB3lrebeWFYbM6sSK_nOng&usqp=CAU" alt="sherwin233" /> </p>
-
-- 🌱 I’m currently learning **Bachelor of Science in Information Technology**
-
-- ⚡ Fun fact **Lazy**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/98544h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="98544h" height="30" width="40" /></a>
