@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sherwin S. Selma</h1>
 <h3 align="center">A passionate Back-End Developer</h3>
 
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwin233&label=Profile%20views&color=0e75b6&style=flat" alt="sherwin233" /> </p>
+
 - 🌱 I’m currently learning **Bachelor of Science in Information Technology**
 
 - ⚡ Fun fact **Lazy**
