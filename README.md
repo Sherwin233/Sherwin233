@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front-End Developer and Back-End Developer / Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6urOp-rirTrQVB3lrebeWFYbM6sSK_nOng&usqp=CAU" alt="odong23" /> </p>
+<p align="left"> <img src="" alt="odong23" /> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science in Information Technology**
 
