@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sherwin S. Selma</h1>
 <h3 align="center">A passionate Back-End Developer</h3>
 
+- 🌱 I’m currently learning **Bachelor of Science in Information Technology**
+
+- ⚡ Fun fact **Lazy**
+
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6urOp-rirTrQVB3lrebeWFYbM6sSK_nOng&usqp=CAU" alt="sherwin233" /> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science in Information Technology**
